@@ -1,0 +1,8 @@
+{
+  "name": "reddit-server",
+  "version": "0.0.1",
+  "description": "A reddit clone",
+  "main": "index.js",
+  "author": "cryptoMavrik",
+  "license": "MIT"
+}
