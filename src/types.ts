@@ -10,6 +10,6 @@ interface UserSession {
 
 export type MyContext = {
     em: EntityManager<IDatabaseDriver<Connection>>;
-    req: Request & { session: UserSession };
+    req: Request & { session: UserSession | any };
     res: Response;
 }
