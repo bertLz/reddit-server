@@ -1,1 +1,1 @@
-Consolidate project to red-clone: 
+Consolidate project to red-clone: https://github.com/bertLz/red-clone
